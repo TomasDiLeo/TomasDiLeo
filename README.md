@@ -12,7 +12,8 @@ que la programación y la computación en general me dejaba
 lograr esto muy satisfactoriamente. Mi objetivo es 
 aprender las mejores practicas y adquirir todo el 
 conocimiento necesario para poder hacer lo que me gusta
-de una manera eficaz y eficiente 
+de una manera eficaz, eficiente y además poder desarrollarme 
+en el entorno profesional y poder vivir de lo que me gusta
 
 
 
