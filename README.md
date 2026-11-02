@@ -34,7 +34,6 @@
     <td><img src="https://cdn.simpleicons.org/neovim" width="20"></td>
     <td>(and VIM VSCode Extension)</td>
     <td><a href="https://github.com/TomasDiLeo/kickstart.nvim"> My Configuration </a></td>
-    <td></td>
   </tr>
   <!-- <tr>
     <td><img src="" width="20"></td>
