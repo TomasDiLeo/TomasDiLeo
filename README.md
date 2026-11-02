@@ -1,5 +1,10 @@
 # Tomás Di Leo
 
+<img
+  src="./assets/monkeytype.svg"
+  alt="My Monkeytype statistics"
+/>
+
 Estudiante de Ingeniería en Computación. Uso este espacio para publicar código, proyectos y experimentos que me ayudan a profundizar en sistemas, redes y desarrollo de software.
 
 ## Áreas de interés
