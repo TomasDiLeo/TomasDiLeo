@@ -29,18 +29,18 @@
         <rect x="164" y="122" width="690"
         height="5" fill="#34342d"/>
 
-        <rect x="164" y="122" width="186.49"
+        <rect x="164" y="122" width="193.48"
         height="5" fill="#8bac0f"/>
 
         <text x="164" y="151" fill="#a5a398"
         font-family="monospace" font-size="12">
-        400 / 1,480 PAGES
+        415 / 1,480 PAGES
         </text>
 
         <text x="854" y="151" fill="#8bac0f"
         font-family="monospace" font-size="12"
         text-anchor="end">
-        27.0%
+        28.0%
         </text>
 
         
