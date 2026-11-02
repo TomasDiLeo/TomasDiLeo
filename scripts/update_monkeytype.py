@@ -78,6 +78,14 @@ def calculate_metrics(stats, results):
         "time_typing_hours": round(time_typing_hours, 2),
         "avg_accuracy": round(avg_accuracy, 2),
         "estimated_words_typed": estimated_words,
+        "history": [
+            {
+                "wpm": r["wpm"],
+                "timestamp": r["timestamp"]
+            }
+            for r in results
+            if r.get("mode") == "time"
+        ],
     }
 
 def main():
