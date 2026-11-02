@@ -3,6 +3,7 @@ import requests
 import json
 from dotenv import load_dotenv
 from generate_svg import generate_svg
+from statistics import mean
 
 load_dotenv()
 
