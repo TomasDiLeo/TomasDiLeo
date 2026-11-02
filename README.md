@@ -15,6 +15,7 @@
     <td>Linux Distro</td>
     <td><img src="https://cdn.simpleicons.org/fedora" width="20"></td>
     <td>Fedora Linux 44 </td>
+    <td><a href="https://gist.github.com/TomasDiLeo/0cc7fbf40356a4d2f70dd975e470f3b6"> My Bash Aliases </a></td>
   </tr>
   <tr>
     <td>Keyboard</td>
@@ -31,7 +32,9 @@
   <tr>
     <td>NeoVIM</td>
     <td><img src="https://cdn.simpleicons.org/neovim" width="20"></td>
+    <td>(and VIM VSCode Extension)</td>
     <td><a href="https://github.com/TomasDiLeo/kickstart.nvim"> My Configuration </a></td>
+    <td></td>
   </tr>
   <!-- <tr>
     <td><img src="" width="20"></td>
