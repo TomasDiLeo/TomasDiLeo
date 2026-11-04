@@ -42,7 +42,7 @@
         fill="#c4d69a"
         font-family="monospace"
         font-size="36"
-        font-weight="bold">64.3</text>
+        font-weight="bold">64.5</text>
 
     <text x="370" y="113"
         fill="#89947b"
@@ -59,7 +59,7 @@
     <text x="24" y="169"
         fill="#d4d8ce"
         font-family="monospace"
-        font-size="19">8h 13m</text>
+        font-size="19">8h 20m</text>
 
     <text x="24" y="190"
         fill="#89947b"
@@ -79,7 +79,7 @@
     <text x="496" y="169"
         fill="#d4d8ce"
         font-family="monospace"
-        font-size="19">31,664</text>
+        font-size="19">32,146</text>
 
     <text x="496" y="190"
         fill="#89947b"
