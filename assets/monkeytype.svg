@@ -29,7 +29,7 @@
         fill="#c4d69a"
         font-family="monospace"
         font-size="36"
-        font-weight="bold">64.4</text>
+        font-weight="bold">61.8</text>
 
     <text x="24" y="113"
         fill="#89947b"
@@ -42,7 +42,7 @@
         fill="#c4d69a"
         font-family="monospace"
         font-size="36"
-        font-weight="bold">65.6</text>
+        font-weight="bold">65.4</text>
 
     <text x="370" y="113"
         fill="#89947b"
@@ -59,7 +59,7 @@
     <text x="24" y="169"
         fill="#d4d8ce"
         font-family="monospace"
-        font-size="19">8h 36m</text>
+        font-size="19">8h 40m</text>
 
     <text x="24" y="190"
         fill="#89947b"
@@ -69,7 +69,7 @@
     <text x="260" y="169"
         fill="#d4d8ce"
         font-family="monospace"
-        font-size="19">94.9%</text>
+        font-size="19">94.8%</text>
 
     <text x="260" y="190"
         fill="#89947b"
@@ -79,7 +79,7 @@
     <text x="496" y="169"
         fill="#d4d8ce"
         font-family="monospace"
-        font-size="19">33,229</text>
+        font-size="19">32,121</text>
 
     <text x="496" y="190"
         fill="#89947b"
