@@ -13,8 +13,8 @@
 <table>
   <tr>
     <td>Linux Distro</td>
-    <td><img src="https://cdn.simpleicons.org/fedora" width="20"></td>
-    <td>Fedora Linux 44 </td>
+    <td><img src="https://cdn.simpleicons.org/cachyos" width="20"></td>
+    <td>CachyOS </td>
     <td><a href="https://gist.github.com/TomasDiLeo/0cc7fbf40356a4d2f70dd975e470f3b6"> My Bash Aliases </a></td>
   </tr>
   <tr>
